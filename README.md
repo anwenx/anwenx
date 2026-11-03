@@ -2,36 +2,35 @@
 
 <p align="center">
   <b>Aspiring Software Development Engineer (SDE-1)</b><br/>
-  Backend · Systems Programming · Database Internals
+  Data Structures & Algorithms · Problem Solving · Software Engineering
 </p>
 
 <p align="center">
-  <a href="https://github.com/anwenx?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2F81F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories"/></a>
-  <a href="https://github.com/anwenx/diskkv"><img src="https://img.shields.io/badge/Featured-diskkv-2F81F7?style=for-the-badge&labelColor=0D1117" alt="diskkv"/></a>
-  <a href="https://github.com/anwenx/QueueForge"><img src="https://img.shields.io/badge/Featured-QueueForge-2F81F7?style=for-the-badge&labelColor=0D1117" alt="QueueForge"/></a>
-  <a href="https://github.com/anwenx/formaflow"><img src="https://img.shields.io/badge/Featured-formaflow-2F81F7?style=for-the-badge&labelColor=0D1117" alt="formaflow"/></a>
+  <a href="https://www.linkedin.com/in/yash-kamble-2135a8280/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+  <a href="https://codolio.com/profile/anwenx"><img src="https://img.shields.io/badge/Codolio-2F81F7?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codolio"/></a>
+  <a href="mailto:yashkaamble1308@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 </p>
 
 ---
 
 ## About Me
 
-I build backend and systems-level software to understand how reliable software actually works under the hood: storage engines, durable job queues, and schema-driven applications. I care about correctness, failure handling, tests, and documentation, and I'm aiming for an SDE-1 role at a product-based company.
+I'm a software engineering aspirant targeting **SDE-1 roles** at product-based companies. I build real projects, practice problem solving consistently, and focus on writing clean, tested, well-documented code. I enjoy understanding how software works from the fundamentals up.
 
 ## Core Interests
 
 - Data Structures and Algorithms
-- Backend Engineering and API Design
-- Database Internals and Storage Engines
-- Distributed Systems Fundamentals
-- Systems Programming (C++, Go)
-- Software Architecture
+- Problem Solving and Competitive Programming
+- Object-Oriented Design and Software Architecture
+- Computer Science Fundamentals (OS, DBMS, Networks)
+- Full-Stack Development
+- System Design Fundamentals
 
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=58A6FF" alt="Go"/>
   <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=58A6FF" alt="C++"/>
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=58A6FF" alt="Go"/>
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF" alt="Node.js"/>
@@ -43,7 +42,7 @@ I build backend and systems-level software to understand how reliable software a
 
 | Project | Stack | Description |
 | :-- | :-- | :-- |
-| [**diskkv**](https://github.com/anwenx/diskkv) | Go | Embedded key-value storage engine inspired by Bitcask-style, log-structured design. |
+| [**diskkv**](https://github.com/anwenx/diskkv) | Go | Embedded key-value storage engine inspired by Bitcask-style design. |
 | [**QueueForge**](https://github.com/anwenx/QueueForge) | Node.js, SQLite | Durable job queue and worker-processing system. |
 | [**formaflow**](https://github.com/anwenx/formaflow) | TypeScript | Dynamic form engine that turns natural-language input into structured forms. |
 
@@ -68,15 +67,15 @@ I build backend and systems-level software to understand how reliable software a
   <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anwenx&bg_color=0D1117&color=58A6FF&line=2F81F7&point=FFFFFF&area=true&area_color=2F81F7&hide_border=true" />
 </p>
 
-## Connect
+## Connect With Me
 
-<p>
-  <a href="https://github.com/anwenx"><img src="https://img.shields.io/badge/GitHub-anwenx-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/></a>
-  <!-- Add your own links below, then delete this line -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a> -->
-  <!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/></a> -->
-</p>
+| Platform | Link |
+| :-- | :-- |
+| LinkedIn | [linkedin.com/in/yash-kamble-2135a8280](https://www.linkedin.com/in/yash-kamble-2135a8280/) |
+| Codolio | [codolio.com/profile/anwenx](https://codolio.com/profile/anwenx) |
+| Email | [yashkaamble1308@gmail.com](mailto:yashkaamble1308@gmail.com) |
+| GitHub | [github.com/anwenx](https://github.com/anwenx) |
 
 ---
 
-<p align="center"><i>Building real software, one reliable system at a time.</i></p>
+<p align="center"><i>Open to SDE-1 and software engineering internship opportunities.</i></p>
